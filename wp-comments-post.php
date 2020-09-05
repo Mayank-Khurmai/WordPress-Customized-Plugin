@@ -17,7 +17,8 @@ if ( 'POST' !== $_SERVER['REQUEST_METHOD'] ) {
 	exit;
 }
 
-/** Sets up the WordPress Environment. */
+
+/** Set up the WordPress Environment. */
 require __DIR__ . '/wp-load.php';
 
 nocache_headers();
