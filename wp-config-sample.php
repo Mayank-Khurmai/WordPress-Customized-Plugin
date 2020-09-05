@@ -10,7 +10,7 @@
  *
  * * MySQL settings
  * * Secret keys
- * * Database table prefix
+ * * Database table prefixs
  * * ABSPATH
  *
  * @link https://wordpress.org/support/article/editing-wp-config-php/
